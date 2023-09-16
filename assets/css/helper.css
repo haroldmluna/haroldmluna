@@ -6,7 +6,7 @@
 * URL:			https://themetorium.net/
 *
 * Secondary Font: 'Syne', sans-serif;
-* Main color:  #b12c0d;
+* Main color:  #ed1c24;
 *
 * You are free to use these extra prepared helper classes to customize your web site.
 --------------------------------------------------------------------------------------- */
@@ -42,7 +42,7 @@
 /* ------------------------------------------------------------- */
 
 :root {
-	--tt-main-color: #b12c0d; /* Template main color. */
+	--tt-main-color: #ed1c24; /* Template main color. */
 }
 
 
